@@ -9,3 +9,8 @@ const samirr:User2={email:"sam@gmail.com",userId:7,googleId:"sami@google.com"}
 
 // googleId is not compulsory
 // const samirr:User2={email:"sam@gmail.com",userId:7} 
+
+export{}
+
+
+
