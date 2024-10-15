@@ -44,3 +44,5 @@ const data2: string[]=["1","2","3"]
 const data3:(number|string)[]=[1,2,3,"4"]
 
 // here line 44 denotes use of union in array
+
+export{}
