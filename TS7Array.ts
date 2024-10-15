@@ -14,9 +14,12 @@ type User ={
 
 }
 
+
 const allUsers : User []=[]
 
 
 superHeros.push("spiderman")
 heroPower.push(2)
 allUsers.push({name:"samir",isActive:false})
+
+export{}
